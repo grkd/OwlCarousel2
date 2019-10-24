@@ -1,4 +1,4 @@
-# KEEP IT ALIVE
+# KEEP IT ALIVE 2
 
 # YEAH SO THIS IS PRETTY MUCH DEAD, DO YOURSELF A FAVOR AND SWITCH TO [tiny-slider](https://github.com/ganlanyuan/tiny-slider)
 
